@@ -1,14 +1,31 @@
-# Python Excel Automation
+# Employee Data Analysis
 
-This repository is part of my Technical Evolution Plan.
+## Objective
+Analyze employee data to extract business insights.
 
-Goal:
-Build automation systems using Python and Excel.
+## Dataset
+- 300+ employees
+- Includes salary, gender, department, experience
 
-Projects:
+## Tools
+- Python
+- Pandas
+- Matplotlib
 
-Project 1 — Data Cleaning Automation
-Project 2 — Automated Sales Report
-Project 3 — Comparative Data Analysis
-Project 4 — Mini Automation System
-Project 5 — Portfolio Project
+## Key Insights
+- Experience strongly correlates with salary
+- Salary differences observed between genders
+- Data quality issues found in contact fields
+
+## Project Structure
+- data/: raw and processed data
+- notebooks/: analysis notebook
+- src/: reusable scripts
+- outputs/: charts and insights
+
+## How to Run
+1. Install requirements
+2. Run notebook
+
+## Conclusion
+This analysis highlights patterns in salary distribution and potential inconsistencies in employee data.
