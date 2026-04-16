@@ -1,0 +1,321 @@
+first_name,last_name,full_name,email,phone,gender,age,job_title,years_of_experience,salary,department,email_valid,phone_clean,phone_valid,phone_error
+Jose,Lopez,Jose Lopez,joselopez0944@slingacademy.com,+1-971-533-4552x1542,male,25,Project Manager,1,8500,Product,True,+19715334552,True,
+Diane,Carter,Diane Carter,dianecarter1228@slingacademy.com,881.633.0107,female,26,Machine Learning Engineer,2,7000,Product,True,+18816330107,True,
+Shawn,Foster,Shawn Foster,shawnfoster2695@slingacademy.com,001-966-861-0065x493,male,37,Project Manager,14,17000,Product,True,,False,invalid_length
+Brenda,Fisher,Brenda Fisher,brendafisher3185@slingacademy.com,001-574-564-4648,female,31,Web Developer,8,10000,Product,True,,False,invalid_length
+Sean,Hunter,Sean Hunter,seanhunter4753@slingacademy.com,5838355842,male,35,Project Manager,11,14500,Product,True,+15838355842,True,
+Joshua,Jacobs,Joshua Jacobs,joshuajacobs5904@slingacademy.com,053-913-2609,male,28,Project Manager,3,10500,Product,True,+10539132609,True,
+Brianna,Marshall,Brianna Marshall,briannamarshall6438@slingacademy.com,701-932-8553,female,33,Machine Learning Engineer,10,11000,Product,True,+17019328553,True,
+John,Tate,John Tate,johntate7881@slingacademy.com,001-889-992-5260x62725,male,33,Mobile Developer,10,11000,Product,True,,False,invalid_length
+Jillian,Byrd,Jillian Byrd,jillianbyrd8170@slingacademy.com,077-635-0084x1647,female,34,Web Developer,10,11000,Product,True,+10776350084,True,
+Melanie,Sharp,Melanie Sharp,melaniesharp9256@slingacademy.com,(848)212-0230,female,41,Web Developer,15,14500,Product,True,+18482120230,True,
+Brandy,Mckee,Brandy Mckee,brandymckee10500@slingacademy.com,001-085-315-6112x464,female,37,Web Developer,14,14000,Product,True,,False,invalid_length
+Robert,Simpson,Robert Simpson,robertsimpson11778@slingacademy.com,496-469-5331x659,male,36,DevOps Engineer,12,15000,Product,True,+14964695331,True,
+George,Mckenzie,George Mckenzie,georgemckenzie12384@slingacademy.com,(843)416-2489,male,28,Machine Learning Engineer,4,10000,Product,True,+18434162489,True,
+Joseph,Smith,Joseph Smith,josephsmith13724@slingacademy.com,+1-380-230-4166,male,40,Machine Learning Engineer,14,14000,Product,True,+13802304166,True,
+Dana,Crawford,Dana Crawford,danacrawford14310@slingacademy.com,(848)716-0019x0240,female,32,Project Manager,8,12000,Product,True,+18487160019,True,
+Christopher,Benson,Christopher Benson,christopherbenson15937@slingacademy.com,+1-368-801-2914x8616,male,29,Web Developer,5,7500,Product,True,+13688012914,True,
+Nicole,Smith,Nicole Smith,nicolesmith16360@slingacademy.com,289.372.5080x2156,female,26,Designer,4,10000,Product,True,+12893725080,True,
+Peter,Jimenez,Peter Jimenez,peterjimenez17791@slingacademy.com,001-535-827-3787x317,male,28,Mobile Developer,3,6500,Product,True,,False,invalid_length
+Sergio,Boyle,Sergio Boyle,sergioboyle18425@slingacademy.com,3027626274,male,31,Tester,6,9000,Product,True,+13027626274,True,
+Brianna,Moss,Brianna Moss,briannamoss19517@slingacademy.com,+1-529-287-4857x163,female,31,Designer,5,10500,Product,True,+15292874857,True,
+Taylor,Garner,Taylor Garner,taylorgarner20196@slingacademy.com,931-244-1612x38767,female,32,Machine Learning Engineer,6,11000,Product,True,+19312441612,True,
+Michael,Padilla,Michael Padilla,michaelpadilla21381@slingacademy.com,(787)446-1738,male,29,Tester,5,9500,Product,True,+17874461738,True,
+Yvette,Walker,Yvette Walker,yvettewalker22744@slingacademy.com,154-489-0248,female,26,Designer,2,7000,Product,True,+11544890248,True,
+Kristina,Pena,Kristina Pena,kristinapena23750@slingacademy.com,+1-099-174-5458x294,female,34,DevOps Engineer,11,12500,Product,True,+10991745458,True,
+Vanessa,Reynolds,Vanessa Reynolds,vanessareynolds24710@slingacademy.com,+1-357-911-9617x44729,female,36,Machine Learning Engineer,10,13000,Product,True,+13579119617,True,
+Robert,Suarez,Robert Suarez,robertsuarez25924@slingacademy.com,+1-121-053-2698x314,male,33,Tester,9,9500,Product,True,+11210532698,True,
+Tammy,Ellis,Tammy Ellis,tammyellis26570@slingacademy.com,029.476.5817x88014,female,37,HR Manager,14,14000,Human Resource,True,+10294765817,True,
+Rodney,Porter,Rodney Porter,rodneyporter27496@slingacademy.com,+1-508-187-4826,male,28,DevOps Engineer,3,9500,Product,True,+15081874826,True,
+David,Reyes,David Reyes,davidreyes28592@slingacademy.com,(725)355-0896x3876,male,25,Designer,2,7000,Product,True,+17253550896,True,
+Brian,Kirby,Brian Kirby,briankirby29574@slingacademy.com,458.110.0220x9710,male,31,Machine Learning Engineer,8,10000,Product,True,+14581100220,True,
+Tammy,Walker,Tammy Walker,tammywalker30386@slingacademy.com,+1-810-034-9706x602,female,31,Web Developer,7,8500,Product,True,+18100349706,True,
+Angela,Stewart,Angela Stewart,angelastewart31951@slingacademy.com,745-157-5520,female,34,HR Manager,10,10000,Human Resource,True,+17451575520,True,
+Susan,Parker,Susan Parker,susanparker32865@slingacademy.com,255.599.0102,female,25,DevOps Engineer,3,8500,Product,True,+12555990102,True,
+Robert,Hogan,Robert Hogan,roberthogan33599@slingacademy.com,1138662041,male,24,Tester,2,7000,Product,True,+11138662041,True,
+Dawn,Pham,Dawn Pham,dawnpham34908@slingacademy.com,(106)836-9118x102,female,27,Designer,4,9000,Product,True,+11068369118,True,
+Karen,Duke,Karen Duke,karenduke35869@slingacademy.com,622.245.2756,female,29,DevOps Engineer,6,11000,Product,True,+16222452756,True,
+Julian,Thompson,Julian Thompson,julianthompson36437@slingacademy.com,392.181.9671x23227,male,28,Machine Learning Engineer,4,7000,Product,True,+13921819671,True,
+Daisy,Perry,Daisy Perry,daisyperry37789@slingacademy.com,+1-921-685-9612x0086,female,30,Tester,5,9500,Product,True,+19216859612,True,
+Sarah,Smith,Sarah Smith,sarahsmith38793@slingacademy.com,(110)771-1347x58805,female,24,Machine Learning Engineer,2,6000,Product,True,+11107711347,True,
+Eric,Randolph,Eric Randolph,ericrandolph39291@slingacademy.com,001-048-278-1814x8904,male,29,Designer,5,8500,Product,True,,False,invalid_length
+William,Keller,William Keller,williamkeller40838@slingacademy.com,903-521-4220x53915,male,30,Web Developer,4,8000,Product,True,+19035214220,True,
+George,Salas,George Salas,georgesalas41217@slingacademy.com,088.890.2450x1927,male,35,Web Developer,11,10500,Product,True,+10888902450,True,
+Alyssa,Archer,Alyssa Archer,alyssaarcher42600@slingacademy.com,001-335-037-7267x43704,female,35,DevOps Engineer,13,15500,Product,True,,False,invalid_length
+Daniel,Wagner,Daniel Wagner,danielwagner43907@slingacademy.com,001-038-830-2184x508,male,35,HR Manager,11,12500,Human Resource,True,,False,invalid_length
+David,Howard,David Howard,davidhoward44518@slingacademy.com,(940)475-4836,male,33,Machine Learning Engineer,9,11500,Product,True,+19404754836,True,
+Brett,Friedman,Brett Friedman,brettfriedman45236@slingacademy.com,+1-548-885-3476x195,male,34,HR Manager,10,10000,Human Resource,True,+15488853476,True,
+Shaun,Harris,Shaun Harris,shaunharris46875@slingacademy.com,(279)621-2475,male,23,Designer,1,6500,Product,True,+12796212475,True,
+Jason,Morris,Jason Morris,jasonmorris47229@slingacademy.com,001-588-064-2677x4053,male,28,DevOps Engineer,5,9500,Product,True,,False,invalid_length
+Jesse,Mcdaniel,Jesse Mcdaniel,jessemcdaniel48348@slingacademy.com,600-434-1206x901,male,35,Mobile Developer,11,11500,Product,True,+16004341206,True,
+Jessica,Torres,Jessica Torres,jessicatorres49971@slingacademy.com,547-005-1763x2506,female,33,HR Manager,7,9500,Human Resource,True,+15470051763,True,
+Bradley,Garcia,Bradley Garcia,bradleygarcia50896@slingacademy.com,(267)794-5965,male,29,Designer,3,6500,Product,True,+12677945965,True,
+Christopher,Walker,Christopher Walker,christopherwalker51808@slingacademy.com,954.740.2159,male,25,Mobile Developer,1,5500,Product,True,+19547402159,True,
+Jason,Boyd,Jason Boyd,jasonboyd52182@slingacademy.com,001-199-903-4307x52539,male,39,Designer,14,15000,Product,True,,False,invalid_length
+Colleen,Cooper,Colleen Cooper,colleencooper53362@slingacademy.com,001-075-516-4089x887,female,32,Machine Learning Engineer,7,10500,Product,True,,False,invalid_length
+Laurie,Robinson,Laurie Robinson,laurierobinson54980@slingacademy.com,989.611.2546,female,38,Mobile Developer,15,13500,Product,True,+19896112546,True,
+Tiffany,Novak,Tiffany Novak,tiffanynovak55365@slingacademy.com,528-213-5280x73418,female,35,Mobile Developer,12,12000,Product,True,+15282135280,True,
+Sophia,Coleman,Sophia Coleman,sophiacoleman56563@slingacademy.com,101.121.4803x8420,female,40,Tester,15,13500,Product,True,+11011214803,True,
+Jodi,Harris,Jodi Harris,jodiharris57145@slingacademy.com,001-466-805-0485,female,34,DevOps Engineer,9,13500,Product,True,,False,invalid_length
+Michael,Calhoun,Michael Calhoun,michaelcalhoun58176@slingacademy.com,001-931-707-3027,male,23,Web Developer,1,7500,Product,True,,False,invalid_length
+Aaron,Tran,Aaron Tran,aarontran59178@slingacademy.com,+1-121-704-1976x1624,male,40,DevOps Engineer,15,16500,Product,True,+11217041976,True,
+Karen,Aguirre,Karen Aguirre,karenaguirre60547@slingacademy.com,+1-159-954-5997x959,female,36,Web Developer,13,13500,Product,True,+11599545997,True,
+Danielle,Morrison,Danielle Morrison,daniellemorrison61394@slingacademy.com,001-256-780-2930x98623,female,31,HR Manager,7,9500,Human Resource,True,,False,invalid_length
+Amanda,Thomas,Amanda Thomas,amandathomas62614@slingacademy.com,001-629-462-1944,female,28,Web Developer,6,9000,Product,True,,False,invalid_length
+Sarah,Spencer,Sarah Spencer,sarahspencer63772@slingacademy.com,(025)089-0360,female,36,Tester,14,14000,Product,True,+10250890360,True,
+Jessica,Ho,Jessica Ho,jessicaho64531@slingacademy.com,251-289-1532,female,34,DevOps Engineer,10,12000,Product,True,+12512891532,True,
+Kristy,Rhodes,Kristy Rhodes,kristyrhodes65269@slingacademy.com,001-482-958-2236x124,female,40,Web Developer,15,13500,Product,True,,False,invalid_length
+Joseph,Hobbs,Joseph Hobbs,josephhobbs66797@slingacademy.com,114.830.3568x128,male,26,Mobile Developer,1,7500,Product,True,+11148303568,True,
+Allison,Matthews,Allison Matthews,allisonmatthews67756@slingacademy.com,(394)302-9258,female,35,Web Developer,12,12000,Product,True,+13943029258,True,
+James,Phillips,James Phillips,jamesphillips68522@slingacademy.com,(733)967-0336,male,40,Web Developer,15,14500,Product,True,+17339670336,True,
+Philip,Thomas,Philip Thomas,philipthomas69207@slingacademy.com,592-756-5695x9778,male,38,DevOps Engineer,12,15000,Product,True,+15927565695,True,
+Dawn,Walker,Dawn Walker,dawnwalker70868@slingacademy.com,+1-173-846-6935x7118,female,31,Mobile Developer,6,10000,Product,True,+11738466935,True,
+Denise,Lopez,Denise Lopez,deniselopez71911@slingacademy.com,597.328.1460,female,31,Designer,5,9500,Product,True,+15973281460,True,
+Gregory,House,Gregory House,gregoryhouse72945@slingacademy.com,1541376919,male,34,HR Manager,9,9500,Human Resource,True,+11541376919,True,
+Stacie,Diaz,Stacie Diaz,staciediaz73929@slingacademy.com,110.987.1187x01990,female,31,Machine Learning Engineer,6,11000,Product,True,+11109871187,True,
+Barbara,Burns,Barbara Burns,barbaraburns74284@slingacademy.com,001-724-808-4339x05491,female,33,Web Developer,11,10500,Product,True,,False,invalid_length
+Jessica,Cortez,Jessica Cortez,jessicacortez75317@slingacademy.com,768.794.6062,female,39,Tester,14,12000,Product,True,+17687946062,True,
+Daniel,Hernandez,Daniel Hernandez,danielhernandez76747@slingacademy.com,+1-653-006-3659,male,33,Tester,7,9500,Product,True,+16530063659,True,
+Eugene,Diaz,Eugene Diaz,eugenediaz77610@slingacademy.com,625.556.6039x715,male,29,Machine Learning Engineer,3,9500,Product,True,+16255566039,True,
+Earl,Nelson,Earl Nelson,earlnelson78644@slingacademy.com,001-666-637-1061,male,34,Web Developer,11,12500,Product,True,,False,invalid_length
+Elizabeth,Jackson,Elizabeth Jackson,elizabethjackson79562@slingacademy.com,129-182-2223x8234,female,28,DevOps Engineer,3,8500,Product,True,+11291822223,True,
+John,Martinez,John Martinez,johnmartinez80595@slingacademy.com,001-116-711-6587,male,26,Web Developer,4,7000,Product,True,,False,invalid_length
+Wesley,Shaw,Wesley Shaw,wesleyshaw81546@slingacademy.com,0250878834,male,26,Mobile Developer,1,6500,Product,True,+10250878834,True,
+Michael,Davila,Michael Davila,michaeldavila82958@slingacademy.com,9179864827,male,40,DevOps Engineer,14,16000,Product,True,+19179864827,True,
+Heidi,Hill,Heidi Hill,heidihill83123@slingacademy.com,+1-480-021-8701x17016,female,40,Tester,15,12500,Product,True,+14800218701,True,
+Yvonne,Bass,Yvonne Bass,yvonnebass84513@slingacademy.com,+1-872-139-6739x9455,female,33,Tester,8,9000,Product,True,+18721396739,True,
+Jamie,Jones,Jamie Jones,jamiejones85266@slingacademy.com,001-039-712-8015,female,24,Web Developer,1,6500,Product,True,,False,invalid_length
+Brady,Washington,Brady Washington,bradywashington86649@slingacademy.com,(720)496-1780x5033,male,23,Designer,1,5500,Product,True,+17204961780,True,
+Michael,Rivera,Michael Rivera,michaelrivera87962@slingacademy.com,243-399-1129,male,29,Web Developer,3,6500,Product,True,+12433991129,True,
+Angela,Morales,Angela Morales,angelamorales88595@slingacademy.com,(340)684-6223x44918,female,28,Web Developer,4,9000,Product,True,+13406846223,True,
+Larry,Moore,Larry Moore,larrymoore89266@slingacademy.com,320.169.9790x514,male,28,Web Developer,5,7500,Product,True,+13201699790,True,
+Veronica,Oliver,Veronica Oliver,veronicaoliver90922@slingacademy.com,629-088-9248x536,female,25,Tester,2,7000,Product,True,+16290889248,True,
+Clayton,Smith,Clayton Smith,claytonsmith91214@slingacademy.com,8318062400,male,27,Mobile Developer,2,6000,Product,True,+18318062400,True,
+Tamara,Randall,Tamara Randall,tamararandall92432@slingacademy.com,001-483-384-8547x78248,female,32,Mobile Developer,10,11000,Product,True,,False,invalid_length
+Amy,Vaughn,Amy Vaughn,amyvaughn93722@slingacademy.com,542.795.3600x28212,female,28,Designer,5,11500,Product,True,+15427953600,True,
+Larry,Chapman,Larry Chapman,larrychapman94932@slingacademy.com,001-539-747-0649,male,35,Designer,12,12000,Product,True,,False,invalid_length
+Eugene,Mcintyre,Eugene Mcintyre,eugenemcintyre95994@slingacademy.com,481-160-8125,male,25,HR Manager,2,7000,Human Resource,True,+14811608125,True,
+Patricia,Suarez,Patricia Suarez,patriciasuarez96379@slingacademy.com,(674)788-1168x659,female,41,Designer,15,16500,Product,True,+16747881168,True,
+Melissa,Vasquez,Melissa Vasquez,melissavasquez97165@slingacademy.com,490-884-4764,female,35,DevOps Engineer,10,12000,Product,True,+14908844764,True,
+Stephanie,Hodges,Stephanie Hodges,stephaniehodges98715@slingacademy.com,001-651-909-2654x62888,female,38,Web Developer,14,14000,Product,True,,False,invalid_length
+Brian,Watkins,Brian Watkins,brianwatkins99160@slingacademy.com,2648820032,male,32,Web Developer,10,11000,Product,True,+12648820032,True,
+Zachary,Ellis,Zachary Ellis,zacharyellis100141@slingacademy.com,+1-485-616-5391x8807,male,34,Tester,12,12000,Product,True,+14856165391,True,
+Mark,Maxwell,Mark Maxwell,markmaxwell101603@slingacademy.com,137-430-7223,male,28,Tester,4,9000,Product,True,+11374307223,True,
+Jill,Farmer,Jill Farmer,jillfarmer102620@slingacademy.com,0571661198,female,26,DevOps Engineer,4,9000,Product,True,+10571661198,True,
+Rhonda,Park,Rhonda Park,rhondapark103796@slingacademy.com,498-878-6219,female,35,DevOps Engineer,12,13000,Product,True,+14988786219,True,
+Jessica,Park,Jessica Park,jessicapark104881@slingacademy.com,874-348-4705,female,26,HR Manager,1,5500,Human Resource,True,+18743484705,True,
+Keith,Bender,Keith Bender,keithbender105366@slingacademy.com,001-243-891-5674x423,male,35,Machine Learning Engineer,10,10000,Product,True,,False,invalid_length
+Andrew,Silva,Andrew Silva,andrewsilva106948@slingacademy.com,3782883279,male,35,HR Manager,12,11000,Human Resource,True,+13782883279,True,
+John,Escobar,John Escobar,johnescobar107306@slingacademy.com,661.598.4267x044,male,34,Mobile Developer,8,10000,Product,True,+16615984267,True,
+Savannah,Woods,Savannah Woods,savannahwoods108924@slingacademy.com,(084)639-6565x41150,female,23,Web Developer,1,5500,Product,True,+10846396565,True,
+Cameron,Solis,Cameron Solis,cameronsolis109983@slingacademy.com,+1-654-849-0805x279,male,36,Machine Learning Engineer,14,14000,Product,True,+16548490805,True,
+Patrick,Johnson,Patrick Johnson,patrickjohnson110856@slingacademy.com,+1-538-767-6692x1656,male,36,Tester,12,13000,Product,True,+15387676692,True,
+Nathan,Oconnor,Nathan Oconnor,nathanoconnor111395@slingacademy.com,189.488.8815x56036,male,37,Mobile Developer,11,11500,Product,True,+11894888815,True,
+Felicia,Fox,Felicia Fox,feliciafox112789@slingacademy.com,001-231-826-1761x9193,female,38,Web Developer,12,11000,Product,True,,False,invalid_length
+Nicole,Davis,Nicole Davis,nicoledavis113588@slingacademy.com,+1-352-114-7038x011,female,26,Web Developer,1,5500,Product,True,+13521147038,True,
+Gregory,Kirk,Gregory Kirk,gregorykirk114408@slingacademy.com,(622)794-0249x585,male,39,Machine Learning Engineer,13,11500,Product,True,+16227940249,True,
+Ashley,Carrillo,Ashley Carrillo,ashleycarrillo115726@slingacademy.com,001-097-500-5888,female,37,Tester,12,12000,Product,True,,False,invalid_length
+Brandon,White,Brandon White,brandonwhite116729@slingacademy.com,+1-197-659-8290x36913,male,31,Machine Learning Engineer,7,8500,Product,True,+11976598290,True,
+Joshua,Miles,Joshua Miles,joshuamiles117429@slingacademy.com,+1-810-231-0550,male,29,Web Developer,5,7500,Product,True,+18102310550,True,
+Gabriel,Shannon,Gabriel Shannon,gabrielshannon118996@slingacademy.com,001-435-888-3180x25244,male,33,DevOps Engineer,11,13500,Product,True,,False,invalid_length
+Charles,Chan,Charles Chan,charleschan119980@slingacademy.com,077-570-4283,male,26,Machine Learning Engineer,2,7000,Product,True,+10775704283,True,
+Stephanie,Hill,Stephanie Hill,stephaniehill120240@slingacademy.com,(765)304-0263x230,female,38,DevOps Engineer,15,15500,Product,True,+17653040263,True,
+Brian,Kelly,Brian Kelly,briankelly121771@slingacademy.com,+1-029-019-2206x665,male,38,DevOps Engineer,12,15000,Product,True,+10290192206,True,
+Susan,Lopez,Susan Lopez,susanlopez122522@slingacademy.com,573-472-7131,female,30,Machine Learning Engineer,8,9000,Product,True,+15734727131,True,
+Logan,Edwards,Logan Edwards,loganedwards123515@slingacademy.com,536.588.4331,male,36,Designer,14,16000,Product,True,+15365884331,True,
+Ryan,Young,Ryan Young,ryanyoung124775@slingacademy.com,001-105-720-6802x583,male,36,DevOps Engineer,13,15500,Product,True,,False,invalid_length
+Rebecca,Crawford,Rebecca Crawford,rebeccacrawford125111@slingacademy.com,(450)663-6253x153,female,37,Web Developer,13,11500,Product,True,+14506636253,True,
+Leslie,Sullivan,Leslie Sullivan,lesliesullivan126504@slingacademy.com,161.488.4614x1551,female,40,Tester,15,12500,Product,True,+11614884614,True,
+Andrew,Carey,Andrew Carey,andrewcarey127127@slingacademy.com,4267904671,male,24,DevOps Engineer,1,9500,Product,True,+14267904671,True,
+Richard,Sawyer,Richard Sawyer,richardsawyer128529@slingacademy.com,(485)441-3528,male,30,Mobile Developer,8,11000,Product,True,+14854413528,True,
+Garrett,Nguyen,Garrett Nguyen,garrettnguyen129713@slingacademy.com,+1-370-218-5389x8154,male,36,Machine Learning Engineer,13,11500,Product,True,+13702185389,True,
+Cody,Zuniga,Cody Zuniga,codyzuniga130555@slingacademy.com,911.596.7824x40746,male,35,DevOps Engineer,13,15500,Product,True,+19115967824,True,
+James,Johnson,James Johnson,jamesjohnson131504@slingacademy.com,358.400.3210,male,31,Tester,9,9500,Product,True,+13584003210,True,
+Jamie,Ruiz,Jamie Ruiz,jamieruiz132870@slingacademy.com,001-015-657-5863x0258,female,27,Tester,4,7000,Product,True,,False,invalid_length
+Brandi,Evans,Brandi Evans,brandievans133450@slingacademy.com,(388)123-2730x36223,female,29,Tester,5,8500,Product,True,+13881232730,True,
+Jennifer,Obrien,Jennifer Obrien,jenniferobrien134415@slingacademy.com,001-576-701-2547,female,40,Mobile Developer,14,12000,Product,True,,False,invalid_length
+Whitney,Espinoza,Whitney Espinoza,whitneyespinoza135280@slingacademy.com,(395)465-0024x542,female,29,Machine Learning Engineer,7,11500,Product,True,+13954650024,True,
+Brandon,Rosario,Brandon Rosario,brandonrosario136801@slingacademy.com,5804460236,male,26,Mobile Developer,4,8000,Product,True,+15804460236,True,
+Jennifer,Rhodes,Jennifer Rhodes,jenniferrhodes137946@slingacademy.com,+1-182-210-6837x27845,female,29,Web Developer,4,8000,Product,True,+11822106837,True,
+Jordan,Michael,Jordan Michael,jordanmichael138385@slingacademy.com,(372)150-9511,female,27,Mobile Developer,3,7500,Product,True,+13721509511,True,
+James,Knight,James Knight,jamesknight139390@slingacademy.com,325.002.8388x1091,male,26,Web Developer,3,8500,Product,True,+13250028388,True,
+Michelle,Ramirez,Michelle Ramirez,michelleramirez140449@slingacademy.com,923.789.8867x807,female,27,Machine Learning Engineer,3,8500,Product,True,+19237898867,True,
+Peter,Mercado,Peter Mercado,petermercado141760@slingacademy.com,890-585-7726x64628,male,33,Mobile Developer,11,12500,Product,True,+18905857726,True,
+Jason,George,Jason George,jasongeorge142858@slingacademy.com,001-431-125-6069,male,25,Machine Learning Engineer,2,9000,Product,True,,False,invalid_length
+John,Arroyo,John Arroyo,johnarroyo143863@slingacademy.com,6849186207,male,31,Machine Learning Engineer,5,7500,Product,True,+16849186207,True,
+Ashley,Mccann,Ashley Mccann,ashleymccann144440@slingacademy.com,001-197-825-7624x4162,female,32,Web Developer,8,11000,Product,True,,False,invalid_length
+John,Robinson,John Robinson,johnrobinson145915@slingacademy.com,(200)221-4696,male,31,DevOps Engineer,8,12000,Product,True,+12002214696,True,
+Michael,Clark,Michael Clark,michaelclark146199@slingacademy.com,(726)898-3126x779,male,32,Web Developer,6,8000,Product,True,+17268983126,True,
+Julia,Howe,Julia Howe,juliahowe147145@slingacademy.com,270-885-8330x203,female,33,Web Developer,8,9000,Product,True,+12708858330,True,
+John,Roy,John Roy,johnroy148826@slingacademy.com,001-579-003-5317x80657,male,31,DevOps Engineer,9,11500,Product,True,,False,invalid_length
+Paul,Nguyen,Paul Nguyen,paulnguyen149760@slingacademy.com,(601)907-3624x42015,male,39,Mobile Developer,14,12000,Product,True,+16019073624,True,
+Chelsea,Lewis,Chelsea Lewis,chelsealewis150888@slingacademy.com,406-096-8891x1387,female,32,DevOps Engineer,10,13000,Product,True,+14060968891,True,
+Austin,Bell,Austin Bell,austinbell151766@slingacademy.com,819-364-7742x938,male,40,DevOps Engineer,15,16500,Product,True,+18193647742,True,
+Paul,Allen,Paul Allen,paulallen152619@slingacademy.com,2104766565,male,28,Mobile Developer,2,8000,Product,True,+12104766565,True,
+Gary,Oliver,Gary Oliver,garyoliver153551@slingacademy.com,001-307-413-8100,male,29,Mobile Developer,4,7000,Product,True,,False,invalid_length
+Diana,Bowers,Diana Bowers,dianabowers154842@slingacademy.com,(472)461-2314,female,29,Web Developer,3,7500,Product,True,+14724612314,True,
+Cody,Peters,Cody Peters,codypeters155367@slingacademy.com,+1-538-563-4682x108,male,39,Mobile Developer,15,13500,Product,True,+15385634682,True,
+Cameron,Gonzalez,Cameron Gonzalez,camerongonzalez156781@slingacademy.com,001-671-656-9205,male,35,DevOps Engineer,13,14500,Product,True,,False,invalid_length
+Shelia,Benson,Shelia Benson,sheliabenson157744@slingacademy.com,001-433-182-3042x4134,female,26,Mobile Developer,3,6500,Product,True,,False,invalid_length
+Jacqueline,Brooks,Jacqueline Brooks,jacquelinebrooks158463@slingacademy.com,803-716-9920,female,33,DevOps Engineer,10,14000,Product,True,+18037169920,True,
+William,Turner,William Turner,williamturner159974@slingacademy.com,611.777.0181,male,33,Web Developer,11,12500,Product,True,+16117770181,True,
+Lisa,Logan,Lisa Logan,lisalogan160552@slingacademy.com,631.001.6670x895,female,37,Web Developer,15,12500,Product,True,+16310016670,True,
+Jeffery,Jones,Jeffery Jones,jefferyjones161216@slingacademy.com,001-510-870-8941x9602,male,37,Mobile Developer,12,12000,Product,True,,False,invalid_length
+Scott,Li,Scott Li,scottli162771@slingacademy.com,001-609-806-7966x06117,male,30,Mobile Developer,5,8500,Product,True,,False,invalid_length
+Chad,Roberson,Chad Roberson,chadroberson163525@slingacademy.com,001-589-932-4079,male,34,Mobile Developer,8,11000,Product,True,,False,invalid_length
+Ariana,Hernandez,Ariana Hernandez,arianahernandez164467@slingacademy.com,502-552-5808,female,28,Web Developer,6,8000,Product,True,+15025525808,True,
+Wanda,Forbes,Wanda Forbes,wandaforbes165141@slingacademy.com,666-855-7253x02322,female,29,Mobile Developer,7,10500,Product,True,+16668557253,True,
+Edwin,Cortez,Edwin Cortez,edwincortez166250@slingacademy.com,675.301.0657x798,male,33,Web Developer,9,9500,Product,True,+16753010657,True,
+Sharon,Smith,Sharon Smith,sharonsmith167760@slingacademy.com,(485)519-9948x286,female,34,DevOps Engineer,8,11000,Product,True,+14855199948,True,
+Sherry,Oliver,Sherry Oliver,sherryoliver168772@slingacademy.com,(104)702-6330,female,33,DevOps Engineer,7,11500,Product,True,+11047026330,True,
+Eric,Moses,Eric Moses,ericmoses169891@slingacademy.com,+1-443-662-4948x52464,male,36,Web Developer,12,12000,Product,True,+14436624948,True,
+James,Ruiz,James Ruiz,jamesruiz170534@slingacademy.com,001-589-861-6693x6009,male,27,Mobile Developer,3,8500,Product,True,,False,invalid_length
+Julie,Barber,Julie Barber,juliebarber171592@slingacademy.com,600.551.1953x989,female,27,DevOps Engineer,1,7500,Product,True,+16005511953,True,
+Becky,Mcpherson,Becky Mcpherson,beckymcpherson172514@slingacademy.com,+1-373-821-4858x946,female,28,Web Developer,5,7500,Product,True,+13738214858,True,
+Nicole,Aguilar,Nicole Aguilar,nicoleaguilar173929@slingacademy.com,(114)183-5226x2535,female,26,Web Developer,1,7500,Product,True,+11141835226,True,
+Melissa,Lee,Melissa Lee,melissalee174832@slingacademy.com,262-107-4732,female,32,Mobile Developer,9,9500,Product,True,+12621074732,True,
+Ariana,Cochran,Ariana Cochran,arianacochran175831@slingacademy.com,+1-248-824-7621,female,36,Web Developer,10,12000,Product,True,+12488247621,True,
+Lisa,Carpenter,Lisa Carpenter,lisacarpenter176388@slingacademy.com,9008123667,female,32,Mobile Developer,9,9500,Product,True,+19008123667,True,
+Julie,Wilson,Julie Wilson,juliewilson177313@slingacademy.com,+1-671-886-0776x042,female,28,Mobile Developer,4,7000,Product,True,+16718860776,True,
+Martin,Crawford,Martin Crawford,martincrawford178513@slingacademy.com,001-938-266-9979x463,male,23,Mobile Developer,1,5500,Product,True,,False,invalid_length
+Daniel,Peterson,Daniel Peterson,danielpeterson179804@slingacademy.com,240.063.9329x8093,male,27,DevOps Engineer,5,10500,Product,True,+12400639329,True,
+Eric,Lambert,Eric Lambert,ericlambert180283@slingacademy.com,710-838-5229,male,36,Mobile Developer,10,10000,Product,True,+17108385229,True,
+Marcia,Huerta,Marcia Huerta,marciahuerta181175@slingacademy.com,001-611-947-0019x85361,female,32,Web Developer,6,8000,Product,True,,False,invalid_length
+Jason,Ortiz,Jason Ortiz,jasonortiz182754@slingacademy.com,+1-614-334-4322x00332,male,33,Mobile Developer,9,9500,Product,True,+16143344322,True,
+Keith,Thomas,Keith Thomas,keiththomas183439@slingacademy.com,001-214-721-0561x945,male,28,Mobile Developer,5,9500,Product,True,,False,invalid_length
+Sarah,Freeman,Sarah Freeman,sarahfreeman184758@slingacademy.com,786.837.6975x132,female,32,DevOps Engineer,9,13500,Product,True,+17868376975,True,
+Michael,Galvan,Michael Galvan,michaelgalvan185989@slingacademy.com,+1-122-284-2113,male,28,Web Developer,2,8000,Product,True,+11222842113,True,
+Michael,Warner,Michael Warner,michaelwarner186194@slingacademy.com,790-287-4075,male,29,Mobile Developer,5,7500,Product,True,+17902874075,True,
+Larry,Thompson,Larry Thompson,larrythompson187420@slingacademy.com,001-227-811-0040x004,male,39,Web Developer,14,12000,Product,True,,False,invalid_length
+James,Miller,James Miller,jamesmiller188412@slingacademy.com,(124)599-3895x76772,male,37,Mobile Developer,15,13500,Product,True,+11245993895,True,
+James,Steele,James Steele,jamessteele189191@slingacademy.com,839-171-3582x4182,male,35,Web Developer,10,10000,Product,True,+18391713582,True,
+Joseph,Beck,Joseph Beck,josephbeck190237@slingacademy.com,+1-621-014-2831x0646,male,35,Mobile Developer,11,12500,Product,True,+16210142831,True,
+Wayne,Cohen,Wayne Cohen,waynecohen191993@slingacademy.com,(304)813-7854x1708,male,31,Web Developer,8,11000,Product,True,+13048137854,True,
+Bailey,Reilly,Bailey Reilly,baileyreilly192786@slingacademy.com,607.511.9983x28152,female,26,Mobile Developer,1,5500,Product,True,+16075119983,True,
+Yolanda,Smith,Yolanda Smith,yolandasmith193826@slingacademy.com,(407)091-5393x213,female,30,Mobile Developer,7,10500,Product,True,+14070915393,True,
+Kathleen,Leblanc,Kathleen Leblanc,kathleenleblanc194890@slingacademy.com,401-896-0371x40763,female,29,Web Developer,4,9000,Product,True,+14018960371,True,
+Christina,Garza,Christina Garza,christinagarza195263@slingacademy.com,273-987-3115,female,27,DevOps Engineer,4,9000,Product,True,+12739873115,True,
+Jennifer,Jarvis,Jennifer Jarvis,jenniferjarvis196139@slingacademy.com,063-012-6389x05736,female,28,Mobile Developer,6,9000,Product,True,+10630126389,True,
+Jesse,Smith,Jesse Smith,jessesmith197279@slingacademy.com,+1-701-460-3317x90916,male,37,Web Developer,11,12500,Product,True,+17014603317,True,
+Melissa,Richardson,Melissa Richardson,melissarichardson198110@slingacademy.com,001-296-935-6456x91442,female,29,Mobile Developer,5,9500,Product,True,,False,invalid_length
+Michele,Stewart,Michele Stewart,michelestewart199951@slingacademy.com,944.042.1529,female,29,DevOps Engineer,7,12500,Product,True,+19440421529,True,
+Jeremy,Gilbert,Jeremy Gilbert,jeremygilbert200282@slingacademy.com,970-269-2119x437,male,29,Mobile Developer,4,9000,Product,True,+19702692119,True,
+Kevin,Valentine,Kevin Valentine,kevinvalentine201488@slingacademy.com,+1-399-375-1890x40884,male,33,Web Developer,10,11000,Product,True,+13993751890,True,
+Suzanne,Hurst,Suzanne Hurst,suzannehurst202425@slingacademy.com,2176055492,female,26,Mobile Developer,3,7500,Product,True,+12176055492,True,
+Janet,Stephens,Janet Stephens,janetstephens203449@slingacademy.com,696-753-3875,female,36,Web Developer,14,12000,Product,True,+16967533875,True,
+Michael,Hoover,Michael Hoover,michaelhoover204983@slingacademy.com,(791)222-1972x3424,male,38,DevOps Engineer,13,15500,Product,True,+17912221972,True,
+Terry,Jones,Terry Jones,terryjones205228@slingacademy.com,905.333.2209x0122,male,34,Web Developer,10,12000,Product,True,+19053332209,True,
+Breanna,Love,Breanna Love,breannalove206374@slingacademy.com,(251)970-0774x9187,female,26,Web Developer,2,8000,Product,True,+12519700774,True,
+Elijah,Mcguire,Elijah Mcguire,elijahmcguire207166@slingacademy.com,430.390.1485x7262,male,28,Web Developer,2,8000,Product,True,+14303901485,True,
+Paige,Bell,Paige Bell,paigebell208379@slingacademy.com,930-636-6697x67326,female,34,Mobile Developer,10,12000,Product,True,+19306366697,True,
+Lauren,Logan,Lauren Logan,laurenlogan209754@slingacademy.com,001-449-766-2057,female,29,Web Developer,3,6500,Product,True,,False,invalid_length
+Gary,Watson,Gary Watson,garywatson210844@slingacademy.com,001-099-534-3868x24842,male,35,Mobile Developer,12,12000,Product,True,,False,invalid_length
+Andrea,Miller,Andrea Miller,andreamiller211593@slingacademy.com,(902)165-6805,female,38,Web Developer,13,13500,Product,True,+19021656805,True,
+Stephen,Anderson,Stephen Anderson,stephenanderson212709@slingacademy.com,730-398-8945,male,29,Web Developer,6,10000,Product,True,+17303988945,True,
+Erica,Montgomery,Erica Montgomery,ericamontgomery213699@slingacademy.com,(412)713-8016x79949,female,26,Web Developer,2,8000,Product,True,+14127138016,True,
+Mitchell,Olson,Mitchell Olson,mitchellolson214954@slingacademy.com,+1-352-025-4146x308,male,25,Mobile Developer,3,7500,Product,True,+13520254146,True,
+Brenda,Leonard,Brenda Leonard,brendaleonard215112@slingacademy.com,(451)560-3184x350,female,23,Mobile Developer,1,7500,Product,True,+14515603184,True,
+Sandra,Scott,Sandra Scott,sandrascott216500@slingacademy.com,420.609.2090,female,28,Web Developer,5,8500,Product,True,+14206092090,True,
+Terry,Jackson,Terry Jackson,terryjackson217122@slingacademy.com,(217)802-5632x0440,male,39,Web Developer,14,13000,Product,True,+12178025632,True,
+John,Palmer,John Palmer,johnpalmer218164@slingacademy.com,(206)349-1934x449,male,37,Mobile Developer,14,14000,Product,True,+12063491934,True,
+Brenda,Tapia,Brenda Tapia,brendatapia219999@slingacademy.com,989-757-9111,female,37,Web Developer,11,11500,Product,True,+19897579111,True,
+Donald,Gordon,Donald Gordon,donaldgordon220327@slingacademy.com,004.508.2105,male,32,Mobile Developer,6,9000,Product,True,+10045082105,True,
+David,Long,David Long,davidlong221467@slingacademy.com,095.663.3357,male,33,Mobile Developer,11,11500,Product,True,+10956633357,True,
+Michael,Pratt,Michael Pratt,michaelpratt222638@slingacademy.com,001-149-139-6964,male,38,Mobile Developer,12,12000,Product,True,,False,invalid_length
+Jessica,West,Jessica West,jessicawest223110@slingacademy.com,140.721.9576x9819,female,32,Mobile Developer,10,12000,Product,True,+11407219576,True,
+David,Jennings,David Jennings,davidjennings224703@slingacademy.com,313.810.6293x369,male,41,Web Developer,15,12500,Product,True,+13138106293,True,
+Alicia,Perry,Alicia Perry,aliciaperry225119@slingacademy.com,311-298-4100,female,27,Mobile Developer,1,7500,Product,True,+13112984100,True,
+Karen,Marsh,Karen Marsh,karenmarsh226577@slingacademy.com,001-710-599-6824x74838,female,28,Web Developer,3,7500,Product,True,,False,invalid_length
+Richard,Holder,Richard Holder,richardholder227991@slingacademy.com,+1-977-600-1087x6268,male,35,Web Developer,10,11000,Product,True,+19776001087,True,
+Ryan,Ponce,Ryan Ponce,ryanponce228931@slingacademy.com,5497597305,male,33,Mobile Developer,7,9500,Product,True,+15497597305,True,
+Eddie,Riley,Eddie Riley,eddieriley229421@slingacademy.com,+1-976-524-6785,male,25,Mobile Developer,1,7500,Product,True,+19765246785,True,
+Zachary,Scott,Zachary Scott,zacharyscott230288@slingacademy.com,543-674-1419x7292,male,27,Mobile Developer,2,8000,Product,True,+15436741419,True,
+Kenneth,Nelson,Kenneth Nelson,kennethnelson231464@slingacademy.com,947.820.6507x32405,male,32,Mobile Developer,8,10000,Product,True,+19478206507,True,
+Edgar,Lane,Edgar Lane,edgarlane232635@slingacademy.com,5537213761,male,28,Web Developer,6,10000,Product,True,+15537213761,True,
+Jeremy,Cox,Jeremy Cox,jeremycox233206@slingacademy.com,+1-155-126-0581x524,male,31,Web Developer,5,9500,Product,True,+11551260581,True,
+Rhonda,Hernandez,Rhonda Hernandez,rhondahernandez234932@slingacademy.com,767-860-5296,female,37,Mobile Developer,15,14500,Product,True,+17678605296,True,
+Ashley,Gilbert,Ashley Gilbert,ashleygilbert235162@slingacademy.com,+1-414-913-8588x9103,female,33,Mobile Developer,9,11500,Product,True,+14149138588,True,
+Shawn,Shaw,Shawn Shaw,shawnshaw236298@slingacademy.com,919-763-5353,male,36,Mobile Developer,13,12500,Product,True,+19197635353,True,
+Ryan,Davis,Ryan Davis,ryandavis237462@slingacademy.com,(778)856-1719x931,male,29,Mobile Developer,3,8500,Product,True,+17788561719,True,
+Kristin,Bradley,Kristin Bradley,kristinbradley238626@slingacademy.com,(402)457-2111,female,34,Web Developer,12,11000,Product,True,+14024572111,True,
+Christopher,Drake,Christopher Drake,christopherdrake239403@slingacademy.com,659-857-8858,male,31,Mobile Developer,9,9500,Product,True,+16598578858,True,
+Justin,Clark,Justin Clark,justinclark240285@slingacademy.com,094.521.1972x38513,male,30,Web Developer,8,11000,Product,True,+10945211972,True,
+Scott,Owens,Scott Owens,scottowens241483@slingacademy.com,487.884.3426x95702,male,35,Web Developer,11,12500,Product,True,+14878843426,True,
+Rebecca,Nelson,Rebecca Nelson,rebeccanelson242256@slingacademy.com,+1-319-257-8912x87517,female,23,Mobile Developer,1,7500,Product,True,+13192578912,True,
+Erin,Green,Erin Green,eringreen243810@slingacademy.com,765-014-8238x735,female,23,Web Developer,1,6500,Product,True,+17650148238,True,
+Paul,Page,Paul Page,paulpage244408@slingacademy.com,001-548-349-5980x11429,male,26,Mobile Developer,1,5500,Product,True,,False,invalid_length
+Jamie,Ball,Jamie Ball,jamieball245345@slingacademy.com,001-521-608-0441,female,25,Mobile Developer,3,6500,Product,True,,False,invalid_length
+Sonya,Williams,Sonya Williams,sonyawilliams246780@slingacademy.com,001-534-324-6100x2516,female,30,Mobile Developer,4,7000,Product,True,,False,invalid_length
+Leslie,Burton,Leslie Burton,leslieburton247488@slingacademy.com,279-096-0603,female,38,Web Developer,15,12500,Product,True,+12790960603,True,
+Daniel,Joseph,Daniel Joseph,danieljoseph248143@slingacademy.com,101-113-1630x442,male,32,Web Developer,10,10000,Product,True,+11011131630,True,
+Julie,Grimes,Julie Grimes,juliegrimes249118@slingacademy.com,671-825-5709,female,32,Web Developer,10,11000,Product,True,+16718255709,True,
+Michael,Davis,Michael Davis,michaeldavis250373@slingacademy.com,771.340.7743x808,male,29,Mobile Developer,6,10000,Product,True,+17713407743,True,
+Stephen,Hoover,Stephen Hoover,stephenhoover251356@slingacademy.com,001-012-427-6550,male,29,Mobile Developer,6,8000,Product,True,,False,invalid_length
+Damon,Sanders,Damon Sanders,damonsanders252816@slingacademy.com,0176247153,male,31,Web Developer,6,9000,Product,True,+10176247153,True,
+Adam,Pratt,Adam Pratt,adampratt253273@slingacademy.com,829.922.4683,male,37,Web Developer,14,14000,Product,True,+18299224683,True,
+Jesse,Gonzalez,Jesse Gonzalez,jessegonzalez254731@slingacademy.com,853.691.9747,male,25,Web Developer,3,8500,Product,True,+18536919747,True,
+Debra,Cruz,Debra Cruz,debracruz255511@slingacademy.com,481.706.7985x840,female,36,Mobile Developer,13,13500,Product,True,+14817067985,True,
+Gregory,Smith,Gregory Smith,gregorysmith256470@slingacademy.com,+1-044-346-7655x68675,male,31,Mobile Developer,5,7500,Product,True,+10443467655,True,
+Natasha,Cook,Natasha Cook,natashacook257144@slingacademy.com,975-551-0070,female,35,Web Developer,11,10500,Product,True,+19755510070,True,
+Robert,Weber,Robert Weber,robertweber258728@slingacademy.com,018.297.6175x4163,male,32,Mobile Developer,7,9500,Product,True,+10182976175,True,
+Carly,Thompson,Carly Thompson,carlythompson259241@slingacademy.com,(850)197-6611,female,27,Web Developer,1,5500,Product,True,+18501976611,True,
+Maureen,Campbell,Maureen Campbell,maureencampbell260229@slingacademy.com,168-469-7587,female,29,Mobile Developer,7,9500,Product,True,+11684697587,True,
+Alex,Brown,Alex Brown,alexbrown261949@slingacademy.com,259.588.0503x6257,male,31,Web Developer,5,9500,Product,True,+12595880503,True,
+Breanna,Allen,Breanna Allen,breannaallen262722@slingacademy.com,+1-160-924-8899x786,female,38,Mobile Developer,14,12000,Product,True,+11609248899,True,
+Michael,Pearson,Michael Pearson,michaelpearson263989@slingacademy.com,8006107617,male,30,Web Developer,4,7000,Product,True,+18006107617,True,
+Cheryl,Lewis,Cheryl Lewis,cheryllewis264411@slingacademy.com,(806)267-8045,female,28,Web Developer,6,8000,Product,True,+18062678045,True,
+Megan,Brown,Megan Brown,meganbrown265895@slingacademy.com,596-551-1329,female,23,Web Developer,1,6500,Product,True,+15965511329,True,
+Linda,Haynes,Linda Haynes,lindahaynes266984@slingacademy.com,331-850-1266x1106,female,29,Mobile Developer,7,8500,Product,True,+13318501266,True,
+Kathy,Palmer,Kathy Palmer,kathypalmer267804@slingacademy.com,(616)797-1560x17533,female,36,Web Developer,12,11000,Product,True,+16167971560,True,
+Tammy,Ball,Tammy Ball,tammyball268170@slingacademy.com,8439547062,female,23,Mobile Developer,1,5500,Product,True,+18439547062,True,
+Samuel,Reed,Samuel Reed,samuelreed269624@slingacademy.com,001-177-232-8430x261,male,34,Mobile Developer,8,10000,Product,True,,False,invalid_length
+Erik,Page,Erik Page,erikpage270609@slingacademy.com,+1-859-269-6655,male,32,Web Developer,9,10500,Product,True,+18592696655,True,
+Tristan,Price,Tristan Price,tristanprice271230@slingacademy.com,001-369-038-1224,male,38,Mobile Developer,15,12500,Product,True,,False,invalid_length
+Natalie,Skinner,Natalie Skinner,natalieskinner272142@slingacademy.com,+1-655-446-8826x40636,female,34,Mobile Developer,12,12000,Product,True,+16554468826,True,
+Nicole,Castro,Nicole Castro,nicolecastro273516@slingacademy.com,(185)855-4760x61049,female,34,Web Developer,9,10500,Product,True,+11858554760,True,
+Natasha,Hughes,Natasha Hughes,natashahughes274687@slingacademy.com,+1-124-853-7387x3710,female,28,Mobile Developer,6,9000,Product,True,+11248537387,True,
+Pamela,Herrera,Pamela Herrera,pamelaherrera275422@slingacademy.com,400-991-8270x7992,female,32,Web Developer,6,8000,Product,True,+14009918270,True,
+Gary,Houston,Gary Houston,garyhouston276947@slingacademy.com,(487)936-5416x279,male,25,Mobile Developer,1,6500,Product,True,+14879365416,True,
+Peter,Johnson,Peter Johnson,peterjohnson277327@slingacademy.com,+1-219-520-1055x479,male,27,Mobile Developer,5,7500,Product,True,+12195201055,True,
+April,Houston,April Houston,aprilhouston278122@slingacademy.com,001-825-098-6223x1127,female,27,Mobile Developer,3,6500,Product,True,,False,invalid_length
+Adam,Martinez,Adam Martinez,adammartinez279637@slingacademy.com,910.407.8536x8933,male,35,Mobile Developer,9,11500,Product,True,+19104078536,True,
+William,Peters,William Peters,williampeters280898@slingacademy.com,599.847.1624x20379,male,30,Web Developer,7,8500,Product,True,+15998471624,True,
+Meagan,Henderson,Meagan Henderson,meaganhenderson281151@slingacademy.com,373-405-5460x036,female,30,Web Developer,8,9000,Product,True,+13734055460,True,
+Charles,West,Charles West,charleswest282127@slingacademy.com,524-024-2894x074,male,26,Web Developer,2,8000,Product,True,+15240242894,True,
+Rebecca,Jackson,Rebecca Jackson,rebeccajackson283741@slingacademy.com,(112)301-1517,female,27,Mobile Developer,2,8000,Product,True,+11123011517,True,
+Alec,Maldonado,Alec Maldonado,alecmaldonado284453@slingacademy.com,+1-484-025-5906,male,33,Mobile Developer,7,9500,Product,True,+14840255906,True,
+Michele,Edwards,Michele Edwards,micheleedwards285969@slingacademy.com,4055420736,female,40,Web Developer,14,12000,Product,True,+14055420736,True,
+John,Hall,John Hall,johnhall286107@slingacademy.com,067.730.7206x26078,male,36,Web Developer,12,13000,Product,True,+10677307206,True,
+Justin,Perry,Justin Perry,justinperry287419@slingacademy.com,275.822.1785x29297,male,41,Mobile Developer,15,14500,Product,True,+12758221785,True,
+Lauren,Norton,Lauren Norton,laurennorton288284@slingacademy.com,911.635.9394x29045,female,27,Web Developer,3,6500,Product,True,+19116359394,True,
+Omar,Soto,Omar Soto,omarsoto289950@slingacademy.com,001-774-441-0174x8586,male,30,Web Developer,5,8500,Product,True,,False,invalid_length
+Michael,Howard,Michael Howard,michaelhoward290216@slingacademy.com,6585788235,male,39,Web Developer,15,14500,Product,True,+16585788235,True,
+Kathleen,Green,Kathleen Green,kathleengreen291790@slingacademy.com,001-923-032-1044x57810,female,35,Mobile Developer,9,10500,Product,True,,False,invalid_length
+Kent,Thompson,Kent Thompson,kentthompson292193@slingacademy.com,+1-691-327-2406x73013,male,38,Web Developer,13,11500,Product,True,+16913272406,True,
+Benjamin,Wilson,Benjamin Wilson,benjaminwilson293449@slingacademy.com,628-559-3098x06279,male,24,Mobile Developer,1,5500,Product,True,+16285593098,True,
+Steven,Vaughn,Steven Vaughn,stevenvaughn294759@slingacademy.com,901.710.4683x57441,male,32,Mobile Developer,10,11000,Product,True,+19017104683,True,
+Michael,Tyler,Michael Tyler,michaeltyler295487@slingacademy.com,785-352-2310,male,33,Web Developer,11,10500,Product,True,+17853522310,True,
+Richard,Lin,Richard Lin,richardlin296285@slingacademy.com,471-829-6568,male,28,Web Developer,6,10000,Product,True,+14718296568,True,
+Jennifer,Williams,Jennifer Williams,jenniferwilliams297896@slingacademy.com,282.970.3806x592,female,37,Web Developer,13,12500,Product,True,+12829703806,True,
+Shelley,Hubbard,Shelley Hubbard,shelleyhubbard298845@slingacademy.com,421-623-0945x9287,female,30,Web Developer,7,8500,Product,True,+14216230945,True,
+Sean,Choi,Sean Choi,seanchoi299793@slingacademy.com,(533)756-8696x245,male,28,Web Developer,2,7000,Product,True,+15337568696,True,
+Marie,Gross,Marie Gross,mariegross300870@slingacademy.com,(634)561-4487x82457,female,32,Web Developer,7,8500,Product,True,+16345614487,True,
+Tracy,Leon,Tracy Leon,tracyleon301263@slingacademy.com,780.596.2863x992,female,32,Web Developer,8,11000,Product,True,+17805962863,True,
+Steven,Peterson,Steven Peterson,stevenpeterson302672@slingacademy.com,001-509-989-9496x2175,male,35,Web Developer,12,11000,Product,True,,False,invalid_length
+Justin,Webster,Justin Webster,justinwebster303292@slingacademy.com,001-990-293-4626,male,32,Web Developer,8,11000,Product,True,,False,invalid_length
+Courtney,Stanley,Courtney Stanley,courtneystanley304326@slingacademy.com,625.311.0983x89652,female,28,Web Developer,4,7000,Product,True,+16253110983,True,
+Walter,Crawford,Walter Crawford,waltercrawford305879@slingacademy.com,(477)112-0518,male,34,Web Developer,12,12000,Product,True,+14771120518,True,
+Danielle,Sparks,Danielle Sparks,daniellesparks306675@slingacademy.com,(670)805-6201x50813,female,26,Web Developer,2,8000,Product,True,+16708056201,True,
+Cheryl,Rose,Cheryl Rose,cherylrose307221@slingacademy.com,+1-058-620-9983x70605,female,26,Web Developer,4,7000,Product,True,+10586209983,True,
+Justin,Mann,Justin Mann,justinmann308432@slingacademy.com,718-998-3978,male,25,Web Developer,3,7500,Product,True,+17189983978,True,
+Vanessa,Carter,Vanessa Carter,vanessacarter309183@slingacademy.com,(620)811-3763,female,26,Web Developer,1,5500,Product,True,+16208113763,True,
+Anthony,Colon,Anthony Colon,anthonycolon310698@slingacademy.com,001-388-080-7123x3000,male,34,Web Developer,12,12000,Product,True,,False,invalid_length
+April,Holland,April Holland,aprilholland311155@slingacademy.com,001-527-705-3200x648,female,37,Web Developer,15,14500,Product,True,,False,invalid_length
+Bill,Anderson,Bill Anderson,billanderson312995@slingacademy.com,(202)724-9857,male,39,Web Developer,14,14000,Product,True,+12027249857,True,
+Kelsey,Moss,Kelsey Moss,kelseymoss313481@slingacademy.com,206-016-2029,female,38,Web Developer,14,12000,Product,True,+12060162029,True,
+Maureen,Phillips,Maureen Phillips,maureenphillips314243@slingacademy.com,+1-837-401-4253x976,female,26,Web Developer,2,7000,Product,True,+18374014253,True,
+Michelle,Hooper,Michelle Hooper,michellehooper315396@slingacademy.com,401.041.6802,female,29,Web Developer,4,9000,Product,True,+14010416802,True,
+Steven,Lewis,Steven Lewis,stevenlewis316274@slingacademy.com,+1-584-489-5663x896,male,34,Web Developer,11,11500,Product,True,+15844895663,True,
+Kevin,Rodriguez,Kevin Rodriguez,kevinrodriguez317974@slingacademy.com,001-511-226-4416x83410,male,29,Web Developer,5,8500,Product,True,,False,invalid_length
+Alexandra,Bell,Alexandra Bell,alexandrabell318109@slingacademy.com,+1-426-702-6363x565,female,39,Web Developer,14,13000,Product,True,+14267026363,True,
+Courtney,Mcdaniel,Courtney Mcdaniel,courtneymcdaniel319568@slingacademy.com,(871)098-2647x80448,female,28,Web Developer,3,8500,Product,True,+18710982647,True,
