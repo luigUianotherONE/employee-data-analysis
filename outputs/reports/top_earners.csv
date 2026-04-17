@@ -1,0 +1,11 @@
+first_name,last_name,full_name,email,phone,gender,age,job_title,years_of_experience,salary,department,email_valid,phone_clean,phone_valid,phone_error
+Shawn,Foster,Shawn Foster,shawnfoster2695@slingacademy.com,001-966-861-0065x493,male,37,Project Manager,14,17000,Product,True,,False,invalid_length
+Austin,Bell,Austin Bell,austinbell151766@slingacademy.com,819-364-7742x938,male,40,DevOps Engineer,15,16500,Product,True,18193647742.0,True,
+Aaron,Tran,Aaron Tran,aarontran59178@slingacademy.com,+1-121-704-1976x1624,male,40,DevOps Engineer,15,16500,Product,True,11217041976.0,True,
+Patricia,Suarez,Patricia Suarez,patriciasuarez96379@slingacademy.com,(674)788-1168x659,female,41,Designer,15,16500,Product,True,16747881168.0,True,
+Logan,Edwards,Logan Edwards,loganedwards123515@slingacademy.com,536.588.4331,male,36,Designer,14,16000,Product,True,15365884331.0,True,
+Michael,Davila,Michael Davila,michaeldavila82958@slingacademy.com,9179864827,male,40,DevOps Engineer,14,16000,Product,True,19179864827.0,True,
+Michael,Hoover,Michael Hoover,michaelhoover204983@slingacademy.com,(791)222-1972x3424,male,38,DevOps Engineer,13,15500,Product,True,17912221972.0,True,
+Alyssa,Archer,Alyssa Archer,alyssaarcher42600@slingacademy.com,001-335-037-7267x43704,female,35,DevOps Engineer,13,15500,Product,True,,False,invalid_length
+Stephanie,Hill,Stephanie Hill,stephaniehill120240@slingacademy.com,(765)304-0263x230,female,38,DevOps Engineer,15,15500,Product,True,17653040263.0,True,
+Ryan,Young,Ryan Young,ryanyoung124775@slingacademy.com,001-105-720-6802x583,male,36,DevOps Engineer,13,15500,Product,True,,False,invalid_length

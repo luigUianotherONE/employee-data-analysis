@@ -31,7 +31,7 @@ def validate_phone_number(phone):
     if not re.match(r'^\+1\d{10}$', formatted):
         return None, False, "invalid_format"
 
-    return formatted, True, None
+    return str(formatted), True, None
 
 def validate_data(df):
     df = df.copy()
